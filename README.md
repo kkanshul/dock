@@ -29,7 +29,7 @@ You can find the pre-trained models here: https://drive.google.com/open?id=1Qobg
 th test.lua <pre-trained model>  <unique_id>
 ```
 
-The above command will apply pre-trained model on all the MS COCO test images and gives class scores for each proposals. You can use unique_id to specify name of file which would be used to save the test scores.
+The above command will apply pre-trained model on all the MS COCO test images and gives the class scores for each proposal. You can use unique_id to specify the name of file which would be used to save the test scores.
 
 ## More code coming soon
 
