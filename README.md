@@ -7,7 +7,7 @@ If you use our work, please cite it:
 ```bibtex
 @inproceedings{singh-eccv2018,
   title = {DOCK: Detecting Objects by transferring Common-sense Knowledge},
-  author = {Krishna Kumar Singh, Santosh Divvala, Ali Farhadi, and Yong Jae Lee},
+  author = {Krishna Kumar Singh and Santosh Divvala and Ali Farhadi and Yong Jae Lee},
   booktitle = {European Conference on Computer Vision (ECCV)},
   year = {2018}
 }
